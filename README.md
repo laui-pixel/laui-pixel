@@ -13,4 +13,4 @@ I have made a few websites last year for my Y10 Digital Tech class, on potatoe r
 + I want to learn digital technology because I think it will be very useful in the future because the future is technology. 
 + I am very new to coding and don't really know anything. 
 
-!Alt[potatoe](lars-blankers-B0s3Xndk6tw-unsplash.jpg)
+![potatoe](lars-blankers-B0s3Xndk6tw-unsplash.jpg)
