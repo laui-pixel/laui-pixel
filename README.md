@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Profile #
+ ### About Me ###
++ I am a year11 student at *Western Springs Highschool*.
++ My favourite colour is **dark blue**.
++ I enjoy doing *Brazilian Jui Jitsu*. 
++ My favourite song is [Your A Mean One Mr Grinch](https://www.youtube.com/watch?v=nytpYtLtHpE) . 
 
-<!--
-**laui-pixel/laui-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Past Projects ###
+I have made a few websites last year for my Y10 Digital Tech class, on potatoe recipes. I also did 3D printing last year. 
 
-Here are some ideas to get you started:
+### Aspirations and Why ###
++ I want to learn digital technology because I think it will be very useful in the future because the future is technology. 
++ I am very new to coding and don't really know anything. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
